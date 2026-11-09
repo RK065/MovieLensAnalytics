@@ -1,0 +1,51 @@
+movieId,title,year,genres,rating_count,avg_rating
+79132,Inception (2010),2010,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,4283,4.16
+2571,"Matrix, The (1999)",1999,Action|Sci-Fi|Thriller,4144,4.14
+318,"Shawshank Redemption, The (1994)",1994,Crime|Drama,4082,4.33
+2959,Fight Club (1999),1999,Action|Crime|Drama|Thriller,3784,4.22
+58559,"Dark Knight, The (2008)",2008,Action|Crime|Drama|IMAX,3747,4.11
+7153,"Lord of the Rings: The Return of the King, The (2003)",2003,Action|Adventure|Drama|Fantasy,3626,4.02
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",2001,Adventure|Fantasy,3548,4.01
+356,Forrest Gump (1994),1994,Comedy|Drama|Romance|War,3442,4.13
+5952,"Lord of the Rings: The Two Towers, The (2002)",2002,Adventure|Fantasy,3397,3.99
+109487,Interstellar (2014),2014,Sci-Fi|IMAX,3287,4.14
+296,Pulp Fiction (1994),1994,Comedy|Crime|Drama|Thriller,3239,4.25
+122912,Avengers: Infinity War - Part I (2018),2018,Action|Adventure|Sci-Fi,3191,3.9
+260,Star Wars: Episode IV - A New Hope (1977),1977,Action|Adventure|Sci-Fi,3080,3.97
+122916,Thor: Ragnarok (2017),2017,Action|Adventure|Sci-Fi,3004,3.84
+176371,Blade Runner 2049 (2017),2017,Sci-Fi,2953,3.85
+134130,The Martian (2015),2015,Adventure|Drama|Sci-Fi,2797,4.03
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),1980,Action|Adventure|Sci-Fi,2743,4.06
+122904,Deadpool (2016),2016,Action|Adventure|Comedy|Sci-Fi,2696,3.87
+593,"Silence of the Lambs, The (1991)",1991,Crime|Horror|Thriller,2689,4.13
+60069,WALL·E (2008),2008,Adventure|Animation|Children|Romance|Sci-Fi,2667,4.0
+68954,Up (2009),2009,Adventure|Animation|Children|Drama,2662,3.96
+177593,"Three Billboards Outside Ebbing, Missouri (2017)",2017,Crime|Drama,2653,4.0
+164179,Arrival (2016),2016,Sci-Fi,2635,4.04
+858,"Godfather, The (1972)",1972,Crime|Drama,2618,4.24
+99114,Django Unchained (2012),2012,Action|Drama|Western,2608,4.01
+112852,Guardians of the Galaxy (2014),2014,Action|Adventure|Sci-Fi,2583,3.93
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),1981,Action|Adventure,2548,3.93
+177765,Coco (2017),2017,Adventure|Animation|Children,2545,4.03
+72998,Avatar (2009),2009,Action|Adventure|Sci-Fi|IMAX,2538,3.52
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),2003,Action|Adventure|Comedy|Fantasy,2535,3.64
+91529,"Dark Knight Rises, The (2012)",2012,Action|Adventure|Crime|IMAX,2518,3.97
+3578,Gladiator (2000),2000,Action|Adventure|Drama,2479,3.95
+4226,Memento (2000),2000,Mystery|Thriller,2470,4.09
+527,Schindler's List (1993),1993,Drama|War,2453,4.08
+106782,"Wolf of Wall Street, The (2013)",2013,Comedy|Crime|Drama,2452,3.96
+4306,Shrek (2001),2001,Adventure|Animation|Children|Comedy|Fantasy|Romance,2449,3.56
+6874,Kill Bill: Vol. 1 (2003),2003,Action|Crime|Thriller,2446,3.81
+122918,Guardians of the Galaxy 2 (2017),2017,Action|Adventure|Sci-Fi,2434,3.89
+68157,Inglourious Basterds (2009),2009,Action|Drama|War,2429,4.02
+6377,Finding Nemo (2003),2003,Adventure|Animation|Children|Comedy,2426,3.74
+187593,Deadpool 2 (2018),2018,Action|Comedy|Sci-Fi,2402,3.79
+1704,Good Will Hunting (1997),1997,Drama|Romance,2372,4.16
+59315,Iron Man (2008),2008,Action|Adventure|Sci-Fi,2354,3.78
+4886,"Monsters, Inc. (2001)",2001,Adventure|Animation|Children|Comedy|Fantasy,2352,3.78
+74458,Shutter Island (2010),2010,Drama|Mystery|Thriller,2350,4.0
+7361,Eternal Sunshine of the Spotless Mind (2004),2004,Drama|Romance|Sci-Fi,2336,4.03
+33794,Batman Begins (2005),2005,Action|Crime|IMAX,2311,3.85
+8961,"Incredibles, The (2004)",2004,Action|Adventure|Animation|Children|Comedy,2295,3.86
+2028,Saving Private Ryan (1998),1998,Action|Drama|War,2266,4.02
+1210,Star Wars: Episode VI - Return of the Jedi (1983),1983,Action|Adventure|Sci-Fi,2265,3.96

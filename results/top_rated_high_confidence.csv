@@ -1,0 +1,14 @@
+movieId,title,clean_title,year,genres,rating_count,avg_rating
+318,"Shawshank Redemption, The (1994)","Shawshank Redemption, The",1994,Crime|Drama,81482,4.41
+858,"Godfather, The (1972)","Godfather, The",1972,Crime|Drama,52498,4.32
+50,"Usual Suspects, The (1995)","Usual Suspects, The",1995,Crime|Mystery|Thriller,55366,4.28
+1221,"Godfather: Part II, The (1974)","Godfather: Part II, The",1974,Crime|Drama,34188,4.26
+527,Schindler's List (1993),Schindler's List,1993,Drama|War,60411,4.25
+2019,Seven Samurai (Shichinin no samurai) (1954),Seven Samurai (Shichinin no samurai),1954,Action|Adventure|Drama,13367,4.25
+904,Rear Window (1954),Rear Window,1954,Mystery|Thriller,20162,4.24
+1203,12 Angry Men (1957),12 Angry Men,1957,Drama,16569,4.24
+2959,Fight Club (1999),Fight Club,1999,Action|Crime|Drama|Thriller,58773,4.23
+1193,One Flew Over the Cuckoo's Nest (1975),One Flew Over the Cuckoo's Nest,1975,Drama,36058,4.22
+750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy|War,26714,4.22
+912,Casablanca (1942),Casablanca,1942,Drama|Romance,26890,4.21
+5618,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Spirited Away (Sen to Chihiro no kamikakushi),2001,Adventure|Animation|Fantasy,22719,4.21
