@@ -21,7 +21,7 @@ An end-to-end Big Data engineering project analyzing the **MovieLens 25M** datas
                                               | Aggregated CSVs              | Client Read
                                               v                              v
                           +-------------------------------------------------------+
-                          | macOS Host (Local Python Virtual Environment)         |
+                          |  Host (Local Python Virtual Environment)         |
                           | - scripts/mongo_queries.py (Aggregation Pipelines)    |
                           | - scripts/visualize.py (Matplotlib & Seaborn)         |
                           | - reports/figures/ (Generated Visual Dashboard)       |
